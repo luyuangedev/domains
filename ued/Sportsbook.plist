@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.uedbet.ios.sportsbook.9C</string>
 				<key>bundle-version</key>
-				<string>1.1.2</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -48,7 +48,7 @@
 				<key>force-target</key>
 				<string>&lt;1.1.1</string>
 				<key>update-features</key>
-				<string>修复维护后无法投注的问题</string>
+				<string>测试更新</string>
 			</dict>
 		</dict>
 	</array>
